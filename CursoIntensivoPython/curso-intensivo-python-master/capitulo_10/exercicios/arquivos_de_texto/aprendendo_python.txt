@@ -1,0 +1,10 @@
+Em Python podemos... Escrever em alguns arquivos de texto.
+Em Python podemos... Concatenar string em outras strings.
+Em Python podemos... Fazer operações matemáticas.
+Em Python podemos... Fazer operações matemáticas com as funções do módulo math.
+Em Python podemos... Criar classes que representem objetos na vida real.
+Em Python podemos... Criar funções para controlar melhor o fluxo de um programa.
+Em Python podemos... Criar pacotes com módulos separados em assuntos para a organização de um projeto.
+Em Python podemos... Gerar arquivos de texto para ler ou escrever nele.
+Em Python podemos... Tratar erros de forma elegante.
+Em Python podemos... Utilizar funções com outras funções.

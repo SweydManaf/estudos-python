@@ -1,0 +1,118 @@
+
+= mobydick.txt - Pagina: 1 =
+Podemos
+= mobydick.txt - Pagina: 2 =
+também
+= mobydick.txt - Pagina: 3 =
+processar
+= mobydick.txt - Pagina: 4 =
+as
+= mobydick.txt - Pagina: 5 =
+linhas
+= mobydick.txt - Pagina: 6 =
+deum
+= mobydick.txt - Pagina: 7 =
+arquivo
+= mobydick.txt - Pagina: 8 =
+de
+= mobydick.txt - Pagina: 9 =
+entrada
+= mobydick.txt - Pagina: 10 =
+comse
+= mobydick.txt - Pagina: 11 =
+fossem
+= mobydick.txt - Pagina: 12 =
+
+= mobydick.txt - Pagina: 13 =
+comandos.
+= mobydick.txt - Pagina: 14 =
+Vejamos
+= mobydick.txt - Pagina: 15 =
+um
+= mobydick.txt - Pagina: 16 =
+exemplo
+= mobydick.txt - Pagina: 17 =
+na
+= mobydick.txt - Pagina: 18 =
+listagem
+= mobydick.txt - Pagina: 19 =
+9.6,
+= mobydick.txt - Pagina: 20 =
+na
+= mobydick.txt - Pagina: 21 =
+qual
+= mobydick.txt - Pagina: 22 =
+as
+= mobydick.txt - Pagina: 23 =
+linhas
+= mobydick.txt - Pagina: 24 =
+cujo
+= mobydick.txt - Pagina: 25 =
+primeiro
+= mobydick.txt - Pagina: 26 =
+
+= mobydick.txt - Pagina: 27 =
+caractere
+= mobydick.txt - Pagina: 28 =
+é
+= mobydick.txt - Pagina: 29 =
+igual
+= mobydick.txt - Pagina: 30 =
+a;
+= mobydick.txt - Pagina: 31 =
+serão
+= mobydick.txt - Pagina: 32 =
+ignoradas;
+= mobydick.txt - Pagina: 33 =
+ascom
+= mobydick.txt - Pagina: 34 =
+>
+= mobydick.txt - Pagina: 35 =
+serão
+= mobydick.txt - Pagina: 36 =
+impressas
+= mobydick.txt - Pagina: 37 =
+alinhadas
+= mobydick.txt - Pagina: 38 =
+à
+= mobydick.txt - Pagina: 39 =
+direita;
+= mobydick.txt - Pagina: 40 =
+ascom
+= mobydick.txt - Pagina: 41 =
+<,
+= mobydick.txt - Pagina: 42 =
+alinhadas
+= mobydick.txt - Pagina: 43 =
+à
+= mobydick.txt - Pagina: 44 =
+esquerda;
+= mobydick.txt - Pagina: 45 =
+eas
+= mobydick.txt - Pagina: 46 =
+com*
+= mobydick.txt - Pagina: 47 =
+serão
+= mobydick.txt - Pagina: 48 =
+centralizadas.
+= mobydick.txt - Pagina: 49 =
+Crie
+= mobydick.txt - Pagina: 50 =
+um
+= mobydick.txt - Pagina: 51 =
+arquivo
+= mobydick.txt - Pagina: 52 =
+comas
+= mobydick.txt - Pagina: 53 =
+seguintes
+= mobydick.txt - Pagina: 54 =
+linhas
+= mobydick.txt - Pagina: 55 =
+e
+= mobydick.txt - Pagina: 56 =
+salve-o
+= mobydick.txt - Pagina: 57 =
+como
+= mobydick.txt - Pagina: 58 =
+entrada.txt:
+= mobydick.txt - Pagina: 59 =

@@ -1,0 +1,14 @@
+# Pycharm stuff
+*.idea/
+
+# Python stuff
+__pycache__/
+
+# HTML stuff
+capitulo_16/exercicios/weather-history_algorithm/wund_html/
+# ChromeDriver V.77.0.3865.40
+capitulo_16/exercicios/weather-history_algorithm/chromedriver.exe
+
+# ENV stuff
+*_env/
+*_env*/

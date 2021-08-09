@@ -1,0 +1,1 @@
+print('Menino Sweyd gazetou nesse dia...:(')
