@@ -1,7 +1,7 @@
 """Des|empacomatamneto de argumetos."""
 
 
-## def meu_sum(**args, **kwargs):
+# def meu_sum(**args, **kwargs):
 def meu_sum(*grupo_posicioal, **grupo_nomeado):
     """Empacomatamneto"""
     print(grupo_posicioal)
