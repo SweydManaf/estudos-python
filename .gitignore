@@ -126,3 +126,4 @@ dmypy.json
 *.xml
 .idea/modules.xml
 *.xml
+.idea/estudos-python.iml
